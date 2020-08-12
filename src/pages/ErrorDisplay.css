@@ -1,0 +1,21 @@
+.error-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(252, 107, 107);
+  color: rgb(241, 241, 241);
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.content h1 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
